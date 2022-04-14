@@ -3,7 +3,8 @@
   margin: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Monaco", monospace, sans-serif;
+  color: aquamarine;
 }
 
 html {
